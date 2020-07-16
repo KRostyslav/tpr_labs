@@ -1,0 +1,22 @@
+{
+  "name": "tpr_labs",
+  "version": "0.0.1",
+  "description": "test repo for testing labs from TPR",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KRostyslav/tpr_labs.git"
+  },
+  "author": "KRostyslav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KRostyslav/tpr_labs/issues"
+  },
+  "homepage": "https://github.com/KRostyslav/tpr_labs#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
