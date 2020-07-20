@@ -4,7 +4,7 @@
   "description": "test repo for testing labs from TPR",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest 2>&1 | tee res.txt"
   },
   "repository": {
     "type": "git",
